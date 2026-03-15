@@ -1,4 +1,4 @@
-# Samsung-Supply-Chain-Power-BI-Dashboard
+# Enterprises-Supply-Chain-Power-BI-Dashboard
 
 📊 Samsung Supply Chain – Power BI Dashboard
 ⚠️ Disclaimer
